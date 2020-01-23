@@ -39,7 +39,7 @@ library
     , random == 1.1
   default-language: Haskell2010
 
-executable Compton-exe
+executable compton
   main-is: Main.hs
   other-modules:
       Paths_Compton
